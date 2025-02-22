@@ -37,6 +37,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 1. Use of the `<figure>` and `<figcaption>` tags to represent an important value/image/number.
 2. Use of the `<article>` tag to wrap a standalone content, meaning it has nothing to do with other parts, such as in this project in the summary data section.
 3. Use of the **CSS** `display: flexbox;` property to set the behavior of elements to be responsive according to our wishes when the element is at a certain width.
+4. I need to learn JavaScript to be able to display data dynamically, such as displaying data from `data.json`
 
 ## Author
 
